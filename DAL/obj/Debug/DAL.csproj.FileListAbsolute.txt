@@ -1,0 +1,9 @@
+C:\Users\Pichau\source\repos\SistemaAula-3\DAL\bin\Debug\DAL.dll
+C:\Users\Pichau\source\repos\SistemaAula-3\DAL\bin\Debug\DAL.pdb
+C:\Users\Pichau\source\repos\SistemaAula-3\DAL\bin\Debug\Modelss.dll
+C:\Users\Pichau\source\repos\SistemaAula-3\DAL\bin\Debug\Modelss.pdb
+C:\Users\Pichau\source\repos\SistemaAula-3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\SistemaAula-3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\SistemaAula-3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Pichau\source\repos\SistemaAula-3\DAL\obj\Debug\DAL.dll
+C:\Users\Pichau\source\repos\SistemaAula-3\DAL\obj\Debug\DAL.pdb

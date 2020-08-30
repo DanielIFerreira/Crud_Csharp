@@ -1,0 +1,6 @@
+C:\Users\Pichau\source\repos\SistemaAula-3\Modelss\bin\Debug\Modelss.dll
+C:\Users\Pichau\source\repos\SistemaAula-3\Modelss\bin\Debug\Modelss.pdb
+C:\Users\Pichau\source\repos\SistemaAula-3\Modelss\obj\Debug\Modelss.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\SistemaAula-3\Modelss\obj\Debug\Modelss.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\SistemaAula-3\Modelss\obj\Debug\Modelss.dll
+C:\Users\Pichau\source\repos\SistemaAula-3\Modelss\obj\Debug\Modelss.pdb
